@@ -1,0 +1,96 @@
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+
+body {
+  background-color: #fdf5e6;
+  text-align: center;
+}
+
+hr {
+  background-color: none;
+  border-style: dotted none none;
+  border-color: red;
+  border-width: 3px;
+  height: 0px;
+  width: 20%;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+
+h1 {
+  color: Grey;
+  font-size: 45px;
+  line-height: 0.5;
+}
+
+h3 {
+  color: Blue;
+  font-size: 30px;
+  font-family: verdana, sans-serif;
+  font-weight: bold;
+}
+
+.profile-pic {
+  height: 200px;
+}
+
+.profile-pic:hover {
+  height: 250px;
+  width: 250px;
+}
+
+.other-pic {
+  height: 100px;
+  width: 200px;
+}
+
+.other-pic:hover {
+  height: 150px;
+  width: 250px;
+}
+
+#heading {
+  color: orangered;
+  font-family: 'Satisfy', cursive, sans-serif;
+  font-size: 3.35rem;
+}
+
+.first {
+  text-decoration: underline;
+  color: black;
+}
+
+.Info{
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+.hidden-p {
+  display: none;
+}
+
+.thanks {
+  height: 75px;
+  width: 150px;
+  border-radius: 75%;
+}
+
+.upper-body{
+  background-color:#eeefcd;
+  padding: 20px;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  color: red;
+}
+
+#bio{
+  padding: 25px;
+}
