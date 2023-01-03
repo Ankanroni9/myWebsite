@@ -1,2 +1,2 @@
 # myWebsite
-Its just my first CV website . 
+Its just my first CV website. 
